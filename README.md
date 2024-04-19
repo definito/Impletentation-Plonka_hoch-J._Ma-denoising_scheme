@@ -30,7 +30,7 @@ Note: You don't need to install the `queue` and `os` packages as they are part o
 1. Clone the repository:
 
 ```bash
-  git@gitlab.gwdg.de:debwashis.borman/Plonka_hoch-Jianwei_Ma-denoising_scheme.git
+  git@github.com:definito/Impletentation-Plonka_hoch-J._Ma-denoising_scheme.git
 ```
 
 Import the `PlonkaDenoiseMasterClass` and `PlonkaHochDenoising` classes from the script. The `PlonkaHochDenoising` class is a subclass of the `PlonkaDenoiseMasterClass` class and contains additional methods.
